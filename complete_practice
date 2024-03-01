@@ -1,0 +1,4 @@
+cd GitHub_practice_Exseed  # リポジトリのディレクトリに移動
+touch complete_practice    # 'complete_practice' ファイルを作成
+git add complete_practice  # ファイルをステージングエリアに追加
+git commit -m "Add complete_practice file"  # コミットメッセージとともにコミット
